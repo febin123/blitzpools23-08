@@ -138,7 +138,9 @@ table.table td .btn.manage:hover {
     .table-wrapper{
         width: 90%;
     }
-    
+    .main   {
+      text-align: center;
+    }
 }
   /* FOOTER */
 .footer {
